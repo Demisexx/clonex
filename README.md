@@ -32,6 +32,9 @@ Note : there are hidden features, check at the source code of the bot to find th
 --> https://github.com/Demisexx/clonex
 <br/><br/>
 
+1. Click on the button below :
+<p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/Demisexx/clonex"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" alt="Deploy to Heroku" /></a></p>
+
 ## 📱 Run the bot on your phone using termux
 
 --> https://telegra.ph/Clone-Bot-Termux-04-30
